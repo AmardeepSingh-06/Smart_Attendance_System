@@ -22,7 +22,7 @@ The Smart Attendance System is a project designed to automate the process of att
 ### Clone the repository:
 
 bash
-- git clone https://github.com/AmritaKaur-08/Smmart-Attendance-System.git
+- git clone https://github.com/AmardeepSingh-06/Smmart-Attendance-System.git
 - cd Smart-Attendance-System
 ### Install dependencies:
 
